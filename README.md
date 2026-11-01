@@ -44,11 +44,9 @@ Airflow запускает DAG raw_clean_analytics_pipeline (ежедневно)
 Задача analytics_layer вызывает analytics_builder.py (витрина → analytics.currency_rates_mart).
 
 Скриншоты
-Успешное выполнение DAG (все три слоя):
-https://dag_success.png/
+Успешное выполнение DAG (все три слоя): dag_success.png
 
-Витрина в PostgreSQL:
-https://analytics_mart.png/
+Витрина в PostgreSQL: analytics_mart.png
 
 Ссылки
 Основной проект DWH Marketplace Analytics
