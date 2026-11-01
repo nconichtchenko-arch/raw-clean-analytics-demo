@@ -51,8 +51,8 @@ Airflow DAG -> (Оркестрация) -> все три слоя
 
 ## Скриншоты
 
-- Успешное выполнение DAG (все три слоя): [dag_success.png](dag_success.png)
-- Витрина в PostgreSQL: [analytics_mart.png](analytics_mart.png)
+- Успешное выполнение DAG (все три слоя): ![DAG Graph](dag_success.png)
+- Витрина в PostgreSQL: ![Analytics Mart](analytics_mart.png)
 
 ## Ссылки
 
